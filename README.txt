@@ -18,3 +18,5 @@ pada website ini pengunjung bisa :
    yang ada di lokasi tersebut. pada halaman ini , pengunjung juga bisa meng-update dan meg hapus lokasi sawah yang ada . selain itu juga bisa menambah lokasi sawah.
 3. Contact Us
 	menu ini berisi contact person pemilik website.
+
+Aplikasi pendukung : XAMPP v3.2.1 3.1.0, Notepad ++, Web Browser, Geojson, Google Maps, Git SCM v2.6.4.
